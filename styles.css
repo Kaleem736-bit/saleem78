@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.social-links a {
+  margin-right: 10px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
